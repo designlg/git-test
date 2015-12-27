@@ -1,3 +1,4 @@
 print("Mega")
 print ("New Class")
 print("Helo my dear friend")
+Print()
